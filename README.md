@@ -38,8 +38,8 @@ Linguagens que estudo para estruturar e desenhar sites modernos da internet:
 ## 🎥 Velvet Zone (Meus GIFs Favoritos)
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/RVg8yaBGSl8AAAAC/irene-sleep-red-velvet-irene.gif" height="200px" style="object-fit: cover; aspect-ratio: 1/1; margin-right: 10px;" alt="Irene Red Velvet"> 
-  <img src="https://media1.tenor.com/m/lCGSBuAw56gAAAAC/elyswisnoto-seulgi.gif" height="200px" style="object-fit: cover; aspect-ratio: 1/1;" alt="Seulgi Red Velvet">
+  <img src="https://media1.tenor.com/m/RVg8yaBGSl8AAAAC/irene-sleep-red-velvet-irene.gif" height="350px" style="object-fit: cover; aspect-ratio: 1/1; margin-right: 15px;" alt="Irene Red Velvet"> 
+  <img src="https://media1.tenor.com/m/lCGSBuAw56gAAAAC/elyswisnoto-seulgi.gif" height="350px" style="object-fit: cover; aspect-ratio: 1/1;" alt="Seulgi Red Velvet">
 </div>
 ---
 
