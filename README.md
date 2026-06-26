@@ -16,3 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:yasmin.carvalho11@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![](https://media1.tenor.com/m/RVg8yaBGSl8AAAAC/irene-sleep-red-velvet-irene.gif)
+![](https://media1.tenor.com/m/lCGSBuAw56gAAAAC/elyswisnoto-seulgi.gif)
