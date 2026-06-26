@@ -40,6 +40,7 @@ Linguagens que estudo para estruturar e desenhar sites modernos da internet:
 <div align="center">
   <img src="https://media1.tenor.com/m/RVg8yaBGSl8AAAAC/irene-sleep-red-velvet-irene.gif" height="350px" style="object-fit: cover; aspect-ratio: 1/1; margin-right: 15px;" alt="Irene Red Velvet"> 
   <img src="https://media1.tenor.com/m/lCGSBuAw56gAAAAC/elyswisnoto-seulgi.gif" height="350px" style="object-fit: cover; aspect-ratio: 1/1;" alt="Seulgi Red Velvet">
+  <img src="https://tenor.com/pt-BR/view/shon-wendy-wendy-shon-wendy-son-rv-wendy-red-velvet-gif-4115376971946417620" height="350px"  style="object-fit: cover; aspect-ratio: 1/1;" alt="Wendy Red Velvet"
 </div>
 ---
 
